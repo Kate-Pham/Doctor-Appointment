@@ -1,0 +1,25 @@
+# Node Modules
+DOC-Appointment-Mern/node_modules/
+admin-panel/node_modules/
+DOC-Appointment-Mern/client/node_modules
+
+# Environment Variables
+admin-panel/.env
+DOC-Appointment-Mern/client/.env
+
+# # Build Folders
+# client/build/
+# client/dist/
+# dist/
+# build/
+
+# # Logs
+# *.log
+# npm-debug.log*
+
+# # OS Files
+# .DS_Store
+# Thumbs.db
+
+# IDE / Editor
+.vscode/
